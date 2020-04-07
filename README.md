@@ -63,3 +63,18 @@ console.log(Object.keys(object1));
 
 
        legal statement
+
+
+
+research difference:       arguments.length  /  (function name).length
+
+arguments.length returns the number of arguments that the containing function has been passed.
+
+(function name).length returns the number of parameters of the function but does not include the rest parameter (...args) and only counts parameters that come BEFORE a default parameter (a = 4) is given
+
+
+07/04/2020:
+Paircoding exercise:
+
+I feel that this exercise when well for my partner and myself; we both read through the instructions and then divided the tasks between us. We worked on our task and updated each other and/or asked for help on our current task. I believe we communicated well.
+The tasks were challenging but through bouncing ideas of each other we were able to complete them.
